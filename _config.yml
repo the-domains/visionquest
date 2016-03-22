@@ -2,12 +2,13 @@ name: visionquest
 favicon: null
 layout_spectrum: 0.05978083051741123
 typography_spectrum: 0.710838834522292
+title: VisionQuest - an idea
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-44961746-2
   facebook: null
   twitter: null
 opengraph:
